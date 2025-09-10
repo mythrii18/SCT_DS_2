@@ -1,5 +1,5 @@
 SCT_DS_2
-
+SKill Craft Technology
 Task 2 – Heart Disease Dataset EDA | Data Science Internship
 
 📌 Task Objective
