@@ -39,6 +39,6 @@ outputs/ → generated plots
 
 requirements.txt → dependencies
 
-README.md, .gitignore,
+README.md, .gitignore
 
-🔗 GitHub Repository: SCT_DS_2
+🔗 GitHub Repository: SCT_DS_2(https://github.com/mythrii18/SCT_DS_2/tree/main)
